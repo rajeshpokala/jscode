@@ -257,7 +257,7 @@
             <td style="padding:12px; font-weight:bold; color:#2C3E50;">Top Product Category</td>
             <td style="padding:12px; color:#2980B9; font-weight:bold;">Life Insurance</td>
           </tr>
-          <tr style="padding:12px; font-weight:bold; color:#2C3E50;">
+          <tr style="border-bottom:1px solid #e0e0e0; background:#f4f6f7;">
             <td style="padding:12px; font-weight:bold; color:#2C3E50;">Renewal Propensity</td>
             <td style="padding:12px; color:#E74C3C; font-weight:bold;">0-1</td>
           </tr>
@@ -415,3 +415,4 @@
     }
 
     // your code here...
+

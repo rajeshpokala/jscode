@@ -175,7 +175,7 @@
             <td style="padding:10px; font-weight:bold; color:#333;">Engagement Segment</td>
             <td style="padding:10px; color:purple; font-weight:bold;">Highly Engaged</td>
           </tr>
-          <tr>
+          <tr style="border-bottom:1px solid #ddd; background:#f9f9f9;">
             <td style="padding:10px; font-weight:bold; color:#333;">Renewal Due Date</td>
             <td style="padding:10px; color:purple; font-weight:bold;">In 30 days</td>
           </tr>
@@ -218,7 +218,7 @@
             <td style="padding:12px; font-weight:bold; color:#2C3E50;">Preferred Day</td>
             <td style="padding:12px; color:#8E44AD; font-weight:bold;">Monday</td>
           </tr>
-          <tr style="background:#f4f6f7;">
+          <tr >
             <td style="padding:12px; font-weight:bold; color:#2C3E50;">Advisor Assigned</td>
             <td style="padding:12px; color:#8E44AD; font-weight:bold;">Mayank Gupta</td>
           </tr>
@@ -257,7 +257,7 @@
             <td style="padding:12px; font-weight:bold; color:#2C3E50;">Top Product Category</td>
             <td style="padding:12px; color:#2980B9; font-weight:bold;">Life Insurance</td>
           </tr>
-          <tr>
+          <tr style="padding:12px; font-weight:bold; color:#2C3E50;">
             <td style="padding:12px; font-weight:bold; color:#2C3E50;">Renewal Propensity</td>
             <td style="padding:12px; color:#E74C3C; font-weight:bold;">0-1</td>
           </tr>
@@ -413,4 +413,5 @@
       `;
         }
     }
+
     // your code here...

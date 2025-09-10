@@ -1,4 +1,6 @@
 {
-  "c1": "Lenskart",
-  "c2": "CareInsurance"
+  "customers": [
+    { "id": "1", "name": "Lenskart" },
+    { "id": "2", "name": "CareInsurance" }
+  ]
 }

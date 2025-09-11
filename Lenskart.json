@@ -7,8 +7,12 @@
     { "id": "carouselitem3", "name": "https://static5.lenskart.com/media/uploads/NEW_AT_LK-Shapes_27032025rat.png" },
     { "id": "smalltextlabel", "name": "" },
     { "id": "bigtextlabel", "name": "" },
+    { "id": "campaign1", "name": "" },
+    { "id": "campaign2", "name": "" },
+    { "id": "campaign3", "name": "" },
     { "id": "ph1", "name": "" },
     { "id": "ph2", "name": "" },
     { "id": "ph3", "name": "" }
   ]
+
 }

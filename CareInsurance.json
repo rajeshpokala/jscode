@@ -1,0 +1,14 @@
+{
+  "customers": [
+    { "id": "logo", "name": "https://*I_2uWtYyOrZzGcCWhr2qSQ.png" },
+    { "id": "middlebanner", "name": "https://y-gender-banner-women-power-eyeglass.png" },
+    { "id": "carouselitem1", "name": "https://static5.lenskart.com/media/uploads/Desktop-v2-topbanner-wildgear_03072025_rat.png" },
+    { "id": "carouselitem2", "name": "https://r-Cherry_blossom1.jpg" },
+    { "id": "carouselitem3", "name": "https://static5.lenskart.com/media/uploads/NEW_AT_LK-Shapes_27032025rat.png" },
+    { "id": "smalltextlabel", "name": "" },
+    { "id": "bigtextlabel", "name": "" },
+    { "id": "ph1", "name": "" },
+    { "id": "ph2", "name": "" },
+    { "id": "ph3", "name": "" }
+  ]
+}

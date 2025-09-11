@@ -1,12 +1,15 @@
 {
   "customers": [
-    { "id": "logo", "name": "https://*I_2uWtYyOrZzGcCWhr2qSQ.png" },
-    { "id": "middlebanner", "name": "https://y-gender-banner-women-power-eyeglass.png" },
-    { "id": "carouselitem1", "name": "https://static5.lenskart.com/media/uploads/Desktop-v2-topbanner-wildgear_03072025_rat.png" },
+    { "id": "logo", "name": "https://shrivenkateshhospital.com/wp-content/uploads/2025/01/Care-Health-Insurance-Walk-in-Recruitment.webp" },
+    { "id": "middlebanner", "name": "https://cms.careinsurance.com/upload_master/landingpages/upload/care-supreme-banner.png" },
+    { "id": "carouselitem1", "name": "https://i0.wp.com/stockify.net.in/wp-content/uploads/2023/06/The-growth-potential-and-future-roadmap-for-Care-Health-Insurance-Ltd-Religare.png?fit=900%2C600&ssl=1" },
     { "id": "carouselitem2", "name": "https://r-Cherry_blossom1.jpg" },
-    { "id": "carouselitem3", "name": "https://static5.lenskart.com/media/uploads/NEW_AT_LK-Shapes_27032025rat.png" },
+    { "id": "carouselitem3", "name": "https://i.ytimg.com/vi/xYB-fRZpv4Y/hq720.jpg" },
     { "id": "smalltextlabel", "name": "" },
     { "id": "bigtextlabel", "name": "" },
+    { "id": "campaign1", "name": "38bcc0bf-2382-4ec0-8071-ce0005b47e19" },
+    { "id": "campaign2", "name": "12b4c7b1-bd13-429a-aae7-b826b352bf95" },
+    { "id": "campaign3", "name": "" },
     { "id": "ph1", "name": "" },
     { "id": "ph2", "name": "" },
     { "id": "ph3", "name": "" }

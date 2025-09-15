@@ -1,6 +1,6 @@
 {
   "customers": [
-    { "id": "logo", "name": "http://img.en25.com/EloquaImages/clients/ORAPSE/%7Ba6141fc1-29b4-43c9-a45d-f6f425b94960%7D_Sharekhan_logo.png" },
+    { "id": "logo", "name": "http://img.en25.com/EloquaImages/clients/ORAPSE/{a6141fc1-29b4-43c9-a45d-f6f425b94960}_Sharekhan_logo.png" },
     { "id": "middlebanner", "name": "http://img.en25.com/EloquaImages/clients/ORAPSE/%7Ba01d622c-2043-41b6-8f68-9c4a907ba5da%7D_sharekhan-website-header.png" },
     { "id": "carouselitem1", "name": "http://img.en25.com/EloquaImages/clients/ORAPSE/%7Be6b7622d-d7b2-4326-b555-a7bfac8d8e49%7D_Sharekhan_MF.png" },
     { "id": "carouselitem2", "name": "https://www.sharekhan.com/CmsApp/MediaGalary/images/MASK_OCS_-banner-on-Homepage-202509041409585880397.jpg" },

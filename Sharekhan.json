@@ -2,7 +2,7 @@
   "customers": [
     { "id": "logo", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/sharekhan-logo.png" },
     { "id": "middlebanner", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/sharekhan-header.png" },
-    { "id": "carouselitem1", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/sharekhan-mf.png" },
+    { "id": "carouselitem1", "name": "https://www.sharekhan.com/CmsApp/MediaGalary/images/MASK_OCS_-banner-on-Homepage-202509041409585880397.jpg" },
     { "id": "carouselitem2", "name": "https://www.sharekhan.com/CmsApp/MediaGalary/images/MASK_OCS_-banner-on-Homepage-202509041409585880397.jpg" },
     { "id": "carouselitem3", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/sharekhan-Equity.png" },
     { "id": "smalltextlabel", "name": "" },

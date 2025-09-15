@@ -1,0 +1,17 @@
+{
+  "customers": [
+    { "id": "logo", "name": "http://img.en25.com/EloquaImages/clients/ORAPSE/%7Ba6141fc1-29b4-43c9-a45d-f6f425b94960%7D_Sharekhan_logo.png" },
+    { "id": "middlebanner", "name": "http://img.en25.com/EloquaImages/clients/ORAPSE/%7Ba01d622c-2043-41b6-8f68-9c4a907ba5da%7D_sharekhan-website-header.png" },
+    { "id": "carouselitem1", "name": "http://img.en25.com/EloquaImages/clients/ORAPSE/%7Be6b7622d-d7b2-4326-b555-a7bfac8d8e49%7D_Sharekhan_MF.png" },
+    { "id": "carouselitem2", "name": "https://www.sharekhan.com/CmsApp/MediaGalary/images/MASK_OCS_-banner-on-Homepage-202509041409585880397.jpg" },
+    { "id": "carouselitem3", "name": "http://img.en25.com/EloquaImages/clients/ORAPSE/%7B4661691e-01f0-45cc-b6a0-20c5a3524ad2%7D_Equity-Trading.png" },
+    { "id": "smalltextlabel", "name": "" },
+    { "id": "bigtextlabel", "name": "" },
+    { "id": "campaign1", "name": "5f19c4bb-3a21-4b24-9a94-87bfacbcdd13" },
+    { "id": "campaign2", "name": "3215ce80-c7a1-40ce-99c9-10c5557c017e" },
+    { "id": "campaign3", "name": "" },
+    { "id": "ph1", "name": "" },
+    { "id": "ph2", "name": "" },
+    { "id": "ph3", "name": "" }
+  ]
+}

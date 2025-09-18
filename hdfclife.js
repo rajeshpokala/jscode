@@ -1,18 +1,8 @@
     // Your code here...
     let hasRun = false;
 
-	//window.addEventListener("load", function () {
-	//        setTimeout(function () {
-	//            updateCustomerId();
-	//            updateProductAffinity();
-	//			replacePurchaseReturn();
-	//			replacePapularDay(); 
-	//			replacePapularMonth();
-	//			console.log("here");
-	//        }, 5000); // 5000 ms = 5 seconds
-	//});
-//if (!hasRun) {updateCustomerId(); hasRun = true;}  
-     window.ondblclick = function() { replacePurchaseReturn(); 
+    window.ondblclick = function() {if (!hasRun) {updateCustomerId(); hasRun = true;} 
+		 							 replacePurchaseReturn(); 
 									 updateProductAffinity(); 
 									 replacePapularDay(); 
 									 replacePapularMonth(); 
@@ -430,6 +420,7 @@
     }
 
     // your code here...
+
 
 
 

@@ -8,11 +8,11 @@
 			replacePurchaseReturn();
 			replacePapularDay(); 
 			replacePapularMonth();
-			alert("here");
+			console.log("here");
         }, 5000); // 5000 ms = 5 seconds
    
 //if (!hasRun) {updateCustomerId(); hasRun = true;}
-     window.ondblclick = function() { alert("here1"); replacePurchaseReturn(); updateProductAffinity(); replacePapularDay(); replacePapularMonth(); updateOverview(); updatechannelEngagement(); replacepopularResponseDay(); replacepopularResponseMonth();
+     window.ondblclick = function() { console.log("here1"); replacePurchaseReturn(); updateProductAffinity(); replacePapularDay(); replacePapularMonth(); updateOverview(); updatechannelEngagement(); replacepopularResponseDay(); replacepopularResponseMonth();
 
 
                                    };
@@ -425,6 +425,7 @@
     }
 
     // your code here...
+
 
 
 

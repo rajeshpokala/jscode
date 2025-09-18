@@ -1,5 +1,6 @@
     // Your code here...
     let hasRun = false;
+alert("here1");
 	window.addEventListener("load", function () {
         setTimeout(function () {
             updateCustomerId();
@@ -424,6 +425,7 @@
     }
 
     // your code here...
+
 
 
 

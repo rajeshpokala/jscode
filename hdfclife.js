@@ -7,6 +7,7 @@
 			replacePurchaseReturn();
 			replacePapularDay(); 
 			replacePapularMonth();
+			alert("here");
         }, 5000); // 5000 ms = 5 seconds
     });
 //if (!hasRun) {updateCustomerId(); hasRun = true;}
@@ -423,5 +424,6 @@
     }
 
     // your code here...
+
 
 

@@ -1,8 +1,16 @@
     // Your code here...
     let hasRun = false;
-
-
-     window.ondblclick = function() {if (!hasRun) {updateCustomerId(); hasRun = true;} replacePurchaseReturn(); updateProductAffinity(); replacePapularDay(); replacePapularMonth(); updateOverview(); updatechannelEngagement(); replacepopularResponseDay(); replacepopularResponseMonth();
+	window.addEventListener("load", function () {
+        setTimeout(function () {
+            updateCustomerId();
+            updateProductAffinity();
+			replacePurchaseReturn();
+			replacePapularDay(); 
+			replacePapularMonth();
+        }, 5000); // 5000 ms = 5 seconds
+    });
+//if (!hasRun) {updateCustomerId(); hasRun = true;}
+     window.ondblclick = function() { replacePurchaseReturn(); updateProductAffinity(); replacePapularDay(); replacePapularMonth(); updateOverview(); updatechannelEngagement(); replacepopularResponseDay(); replacepopularResponseMonth();
 
 
                                    };
@@ -415,4 +423,5 @@
     }
 
     // your code here...
+
 

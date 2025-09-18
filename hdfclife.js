@@ -10,14 +10,14 @@
 			replacePapularMonth();
 			alert("here");
         }, 5000); // 5000 ms = 5 seconds
-    });
+   
 //if (!hasRun) {updateCustomerId(); hasRun = true;}
      window.ondblclick = function() { alert("here1"); replacePurchaseReturn(); updateProductAffinity(); replacePapularDay(); replacePapularMonth(); updateOverview(); updatechannelEngagement(); replacepopularResponseDay(); replacepopularResponseMonth();
 
 
                                    };
 
-
+ });
     function updateCustomerId() {
         //alert("here");
         document.querySelector("#ojCxuAskOracle_ask-oracle > div.oj-cxu-rw-ask-oracle-page-container > div > div > oj-module > profile-details > div > div.cxu-white-panel.oj-cxu-header-shadow.oj-cxu-container.profile-view > div.oj-cxu-left-panel > div.oj-flex > div:nth-child(2) > div > span.id-label").innerText = "Customer ID";
@@ -425,6 +425,7 @@
     }
 
     // your code here...
+
 
 
 

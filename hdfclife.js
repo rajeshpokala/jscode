@@ -11,7 +11,7 @@
 	//			console.log("here");
 	//        }, 5000); // 5000 ms = 5 seconds
 	//});
-//if (!hasRun) {updateCustomerId(); hasRun = true;}
+//if (!hasRun) {updateCustomerId(); hasRun = true;}  
      window.ondblclick = function() { replacePurchaseReturn(); 
 									 updateProductAffinity(); 
 									 replacePapularDay(); 
@@ -430,6 +430,7 @@
     }
 
     // your code here...
+
 
 
 

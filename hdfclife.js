@@ -1,6 +1,6 @@
     // Your code here...
     let hasRun = false;
-alert("here1");
+
 	window.addEventListener("load", function () {
         setTimeout(function () {
             updateCustomerId();
@@ -12,7 +12,7 @@ alert("here1");
         }, 5000); // 5000 ms = 5 seconds
     });
 //if (!hasRun) {updateCustomerId(); hasRun = true;}
-     window.ondblclick = function() { replacePurchaseReturn(); updateProductAffinity(); replacePapularDay(); replacePapularMonth(); updateOverview(); updatechannelEngagement(); replacepopularResponseDay(); replacepopularResponseMonth();
+     window.ondblclick = function() { alert("here1"); replacePurchaseReturn(); updateProductAffinity(); replacePapularDay(); replacePapularMonth(); updateOverview(); updatechannelEngagement(); replacepopularResponseDay(); replacepopularResponseMonth();
 
 
                                    };
@@ -425,6 +425,7 @@ alert("here1");
     }
 
     // your code here...
+
 
 
 

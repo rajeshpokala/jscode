@@ -1,5 +1,6 @@
     // Your code here...
     let hasRun = false;
+alert("here");
     window.ondblclick = function() {if (!hasRun) {updateCustomerId(); hasRun = true;} 
 		 							 replacePurchaseReturn(); 
 									 updateProductAffinity(); 
@@ -9,6 +10,7 @@
 									 updatechannelEngagement(); 
 									 replacepopularResponseDay(); 
 									 replacepopularResponseMonth();
+									alert("here");
                                    };
 
 
@@ -445,6 +447,7 @@
     }
 
     // your code here...
+
 
 
 

@@ -1,6 +1,6 @@
     // Your code here...
     let hasRun = false;
-alert("here");
+ 
     window.ondblclick = function() {if (!hasRun) {updateCustomerId(); hasRun = true;} 
 		 							 replacePurchaseReturn(); 
 									 updateProductAffinity(); 
@@ -10,7 +10,7 @@ alert("here");
 									 updatechannelEngagement(); 
 									 replacepopularResponseDay(); 
 									 replacepopularResponseMonth();
-									alert("here");
+									 
                                    };
 
 
@@ -166,7 +166,7 @@ alert("here");
             </tr>
             <tr style="background-color:#fff;">
               <td style="padding:8px 12px; border:1px solid #ddd;">POL-1003</td>
-              <td style="padding:8px 12px; border:1px solid #ddd;">Child Education Plan</td>
+              <td style="padding:8px 12px; border:1px solid #ddd;">Travel Insurance Plan</td>
               <td style="padding:8px 12px; border:1px solid #ddd;">Inactive</td>
               <td style="padding:8px 12px; border:1px solid #ddd;">₹ 4,500</td>
             </tr>
@@ -447,6 +447,7 @@ alert("here");
     }
 
     // your code here...
+
 
 
 

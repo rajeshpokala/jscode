@@ -1,7 +1,7 @@
     // Your code here...
     let hasRun = false;
 
-    window.onclick = function() {if (!hasRun) {updateCustomerId(); hasRun = true;} 
+    window.ondblclick = function() {if (!hasRun) {updateCustomerId(); hasRun = true;} 
 		 							 replacePurchaseReturn(); 
 									 updateProductAffinity(); 
 									 replacePapularDay(); 
@@ -420,6 +420,7 @@
     }
 
     // your code here...
+
 
 
 

@@ -1,6 +1,5 @@
     // Your code here...
     let hasRun = false;
-
     window.ondblclick = function() {if (!hasRun) {updateCustomerId(); hasRun = true;} 
 		 							 replacePurchaseReturn(); 
 									 updateProductAffinity(); 
@@ -446,6 +445,7 @@
     }
 
     // your code here...
+
 
 
 

@@ -1,6 +1,6 @@
 {
   "customers": [
-    { "id": "logo", "name": "https://www.actcorp.in/themes/custom/actcorp/logo.svg" },
+    { "id": "logo", "name": "https://images.seeklogo.com/logo-png/45/2/atria-convergence-technologies-logo-png_seeklogo-453694.png" },
     { "id": "middlebanner", "name": "https://www.actcorp.in/sites/default/files/2025-09/desktop_bg-optimized_0.webp" },
     { "id": "carouselitem1", "name": "https://www.actcorp.in/sites/default/files/2025-12/amz_244x368.webp" },
     { "id": "carouselitem2", "name": "https://www.actcorp.in/sites/default/files/2025-12/276x377-st.webp" },

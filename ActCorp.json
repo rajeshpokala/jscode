@@ -2,7 +2,7 @@
   "customers": [
     { "id": "logo", "name": "https://rajeshpokala.github.io/image-hosting/ACTlogo.jpg" },
     { "id": "middlebanner", "name": "https://rajeshpokala.github.io/image-hosting/ch_email_banner_ACT.png" },
-    { "id": "carouselitem1", "name": "https://rajeshpokala.github.io/image-hosting/email_banner_ACT.png" },
+    { "id": "carouselitem1", "name": "https://rajeshpokala.github.io/image-hosting/email_banner_ACTCopy.png" },
     { "id": "carouselitem2", "name": "https://selfcare.actcorp.in/ACT-Selfcare/cms/webpCommonImages/PreLogin/CRP_Offer_Selfcare-Carousel.jpg" },
     { "id": "carouselitem3", "name": "https://www.actcorp.in/sites/default/files/2024-09/yupptcscopebanner.jpeg" },
     { "id": "smalltextlabel", "name": "" },

@@ -1,10 +1,10 @@
 {
   "customers": [
-    { "id": "logo", "name": "https://images.seeklogo.com/logo-png/45/2/atria-convergence-technologies-logo-png_seeklogo-453694.png" },
-    { "id": "middlebanner", "name": "https://www.actcorp.in/sites/default/files/2025-09/desktop_bg-optimized_0.webp" },
-    { "id": "carouselitem1", "name": "https://www.actcorp.in/sites/default/files/2025-12/amz_244x368.webp" },
-    { "id": "carouselitem2", "name": "https://www.actcorp.in/sites/default/files/2025-12/276x377-st.webp" },
-    { "id": "carouselitem3", "name": "https://www.actcorp.in/sites/default/files/2025-09/digital_zee_5_banner_01_1264x480_pix_without_text.webp" },
+    { "id": "logo", "name": "https://vtlogo.com/wp-content/uploads/2020/12/act-fibernet-vector-logo.png" },
+    { "id": "middlebanner", "name": "https://selfcare.actcorp.in/ACT-Selfcare/cms/webpCommonImages/PreLogin/Selfcare-banner---776x402.jpg" },
+    { "id": "carouselitem1", "name": "https://selfcare.actcorp.in/ACT-Selfcare/cms/webpCommonImages/PreLogin/Selfcare-banner---1057x268.jpg" },
+    { "id": "carouselitem2", "name": "https://selfcare.actcorp.in/ACT-Selfcare/cms/webpCommonImages/PreLogin/CRP_Offer_Selfcare-Carousel.jpg" },
+    { "id": "carouselitem3", "name": "https://www.actcorp.in/sites/default/files/2024-09/yupptcscopebanner.jpeg" },
     { "id": "smalltextlabel", "name": "" },
     { "id": "bigtextlabel", "name": "" },
     { "id": "campaign1", "name": "38bcc0bf-2382-4ec0-8071-ce0005b47e19" },

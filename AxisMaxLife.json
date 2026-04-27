@@ -1,7 +1,7 @@
 {
   "customers": [
     { "id": "logo", "name": "https://rajeshpokala.github.io/image-hosting/max_life.png" },
-    { "id": "middlebanner", "name": "https://www.axismaxlife.com/static-page/assets/homepage/choose%20right%20health%20insurance.webp" },
+    { "id": "middlebanner", "name": "https://rajeshpokala.github.io/image-hosting/health_insurance_banner.png" },
     { "id": "carouselitem1", "name": "https://static.vecteezy.com/system/resources/previews/004/927/464/non_2x/health-care-insurance-post-template-flat-design-illustration-editable-of-square-background-for-social-media-greeting-card-or-web-internet-vector.jpg" },
     { "id": "carouselitem2", "name": "https://www.axismaxlife.com/static-page/assets/homepage/5.webp" },
     { "id": "carouselitem3", "name": "https://newspaperads.ads2publish.com/wp-content/uploads/2025/01/axis-max-life-insurance-bharosa-now-doubled-ad-hindustan-times-lucknow-02-01-2025.png" },

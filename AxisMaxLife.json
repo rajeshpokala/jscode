@@ -1,6 +1,6 @@
 {
   "customers": [
-    { "id": "logo", "name": "https://www.axismaxlife.com/static-page/assets/homepage/axis-max-life-insurance-logo.svg" },
+    { "id": "logo", "name": "https://cdn.zeebiz.com/hindi/sites/default/files/2025/06/03/228707-axis.png" },
     { "id": "middlebanner", "name": "https://www.axismaxlife.com/static-page/assets/homepage/choose%20right%20health%20insurance.webp" },
     { "id": "carouselitem1", "name": "https://static.vecteezy.com/system/resources/previews/004/927/464/non_2x/health-care-insurance-post-template-flat-design-illustration-editable-of-square-background-for-social-media-greeting-card-or-web-internet-vector.jpg" },
     { "id": "carouselitem2", "name": "https://www.axismaxlife.com/static-page/assets/homepage/5.webp" },

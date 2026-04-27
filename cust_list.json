@@ -1,6 +1,6 @@
 {
   "customers": [
-    { "id": "1", "name": "Axis Max Life" },
+    { "id": "1", "name": "AxisMaxLife" },
     { "id": "2", "name": "CareInsurance" },
     { "id": "3", "name": "Lenskart" },
     { "id": "4", "name": "Sharekhan" },

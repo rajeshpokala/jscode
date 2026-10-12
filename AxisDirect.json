@@ -1,0 +1,17 @@
+{
+  "customers": [
+    { "id": "logo", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Axis%2520logo.png" },
+    { "id": "middlebanner", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Middlebanner.png" },
+    { "id": "carouselitem1", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carousel%2520Item1.png" },
+    { "id": "carouselitem2", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carouselitem2.png" },
+    { "id": "carouselitem3", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carouselitem3.png" },
+    { "id": "smalltextlabel", "name": "" },
+    { "id": "bigtextlabel", "name": "" },
+    { "id": "campaign1", "name": "8f542610-0d00-46b6-a98b-3f36fbc7ce64" },
+    { "id": "campaign2", "name": "126062eb-f350-4287-90c4-aaab6b30c767" },
+    { "id": "campaign3", "name": "" },
+    { "id": "ph1", "name": "" },
+    { "id": "ph2", "name": "" },
+    { "id": "ph3", "name": "" }
+  ]
+}

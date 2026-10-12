@@ -1,10 +1,10 @@
 {
   "customers": [
-    { "id": "logo", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Axis%2520logo.png" },
-    { "id": "middlebanner", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Middlebanner.png" },
-    { "id": "carouselitem1", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carousel%2520Item1.png" },
-    { "id": "carouselitem2", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carouselitem2.png" },
-    { "id": "carouselitem3", "name": "http://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carouselitem3.png" },
+    { "id": "logo", "name": "https://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Axis%2520logo.png" },
+    { "id": "middlebanner", "name": "https://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Middlebanner.png" },
+    { "id": "carouselitem1", "name": "https://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carousel%2520Item1.png" },
+    { "id": "carouselitem2", "name": "https://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carouselitem2.png" },
+    { "id": "carouselitem3", "name": "https://r-d7k13dz-8000005.oraclersys.com/assets/responsysimages/content/demo028/Carouselitem3.png" },
     { "id": "smalltextlabel", "name": "" },
     { "id": "bigtextlabel", "name": "" },
     { "id": "campaign1", "name": "acb83818-c92a-4049-ac44-001f76f30f09" },

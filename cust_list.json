@@ -1,10 +1,11 @@
 {
   "customers": [
-    { "id": "1", "name": "AxisMaxLife" },
-    { "id": "2", "name": "CareInsurance" },
-    { "id": "3", "name": "Lenskart" },
-    { "id": "4", "name": "Sharekhan" },
-    { "id": "5", "name": "ActCorp" }
+    { "id": "1", "name": "AxisDirect" },
+    { "id": "2", "name": "AxisMaxLife" },
+    { "id": "3", "name": "CareInsurance" },
+    { "id": "4", "name": "Lenskart" },
+    { "id": "5", "name": "Sharekhan" },
+    { "id": "6", "name": "ActCorp" }
   ]
 }
 
